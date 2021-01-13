@@ -8,7 +8,6 @@ body {
     background-color: #ffffff;
     background-image: radial-gradient(#000000 1px, transparent 1px);
     background-size: 25px 25px;
-    overflow: hidden;
 }
 
 h1 {
