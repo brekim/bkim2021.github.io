@@ -186,8 +186,11 @@ img {
     top: 75%;
     width: 60%;
     left: 20%;
-    background-color: white;
-    padding: 2px;
+    color: white;
+    background-color: #005598;
+    padding: 10px;
+    background-image: radial-gradient(#000000 1px, transparent 1px);
+    background-size: 25px 25px;
 }
 
 nav a {
@@ -195,5 +198,9 @@ nav a {
 }
 
 .clean {
-    color: #505050;
+    color: #B4C8E2;
+}
+
+.clean:hover {
+    color: turquoise;
 }
